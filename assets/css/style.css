@@ -1,0 +1,19 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+header {
+
+    background-color: lightcoral;
+}
+
+main {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: orange;
+}
